@@ -1,0 +1,301 @@
+Código;Descrição;Quantidade em Estoque;Preço Unitário;Categoria;Data da Última Entrada
+001;Limpa Alumínio Líquido 500ml;307;17.81;limpeza domiciliar;03/02/2024
+002;Repolho Roxo (un);40;6.69;vegetais;04/08/2024
+003;Enxaguante Bucal Antisséptico Menta 500ml;295;19.75;higiene pessoal;26/09/2024
+004;Brócolis Ninja (un);44;5.08;vegetais;01/08/2024
+005;Detergente Líquido Limão 500ml;166;33.0;limpeza domiciliar;21/12/2024
+006;Lenços Umedecidos Recém-Nascido 50un;168;21.53;higiene pessoal;01/08/2024
+007;Kiwi (kg);16;7.86;vegetais;18/03/2025
+008;Alface Americana (un);137;21.08;vegetais;21/09/2024
+009;Fio Dental Johnson & Johnson Reach 50m;168;39.48;higiene pessoal;15/03/2024
+010;Saco de Lixo Banheiro 15L (rolo 30un);239;12.55;limpeza domiciliar;02/02/2025
+011;Abacaxi Pérola (un);81;4.49;vegetais;16/12/2024
+012;Sabonete Barra Glicerinado;363;19.4;higiene pessoal;04/02/2025
+013;Salsicha Hot Dog Perdigão (kg);11;29.16;açougue;19/09/2024
+014;Desodorante Aerosol Rexona Men 150ml;95;35.01;higiene pessoal;29/09/2024
+015;Creme Dental Infantil Tutti-Frutti 50g;322;18.23;higiene pessoal;12/10/2024
+016;Pernil Suíno s/ Osso (kg);25;89.61;açougue;28/05/2024
+017;Frango à Passarinho Temperado Rivelli 1 Kg;37;42.04;açougue;28/05/2024
+018;Pimentão Amarelo (kg);30;10.8;vegetais;12/01/2025
+019;Chocolate ao Leite Barra 90g;506;26.84;alimentos industrializados;17/02/2025
+020;Macarrão Instantâneo Nissin Lámen Galinha Caipira;127;38.29;alimentos industrializados;21/03/2025
+021;Refrigerante Coca-Cola 2L;432;35.08;alimentos industrializados;24/02/2024
+022;Shampoo Infantil Johnson's Baby 200ml;54;25.72;higiene pessoal;29/09/2024
+023;Iogurte Natural Integral Copo 170g;432;17.13;alimentos industrializados;14/07/2024
+024;Filé Tilápia Canção 400g;196;20.68;alimentos industrializados;22/08/2024
+025;Batata Doce (kg);42;15.48;vegetais;06/03/2025
+026;Ketchup Tradicional Frasco 397g;352;42.14;alimentos industrializados;29/04/2024
+027;Mortadela Bolonha Fatiada (kg);62;19.66;açougue;16/01/2024
+028;Queijo Mussarela Fatiado (kg);59;69.96;açougue;03/08/2024
+029;Detergente Limpol Coco 500ml;140;20.03;limpeza domiciliar;07/04/2025
+030;Enxaguante Bucal Listerine Cool Mint 500ml;88;7.99;higiene pessoal;20/01/2025
+031;Limão Taiti (kg);75;13.17;vegetais;10/01/2025
+032;Bisteca Suína (kg);30;30.62;açougue;28/10/2024
+033;Morango (bandeja 250g);33;11.09;vegetais;21/05/2025
+034;Barra de Cereal Nutry Banana 22g;646;34.45;alimentos industrializados;30/04/2025
+035;Fio Dental Fita Larga 25m;227;1.83;higiene pessoal;13/03/2024
+036;Espuma de Barbear Hidratante 150ml;331;28.24;higiene pessoal;17/11/2024
+037;Limpador Multiuso Original 500ml;326;32.7;limpeza domiciliar;05/02/2024
+038;Hambúrguer Bovino Sadia 56g (un);9;53.75;açougue;05/04/2024
+039;Sabão em Pó Brilhante 1kg;292;12.13;limpeza domiciliar;13/07/2024
+040;Flanela para Limpeza (un);347;28.9;limpeza domiciliar;15/07/2024
+041;Filé Mignon Bovino (Peça);51;58.35;açougue;28/02/2025
+042;Sabão Líquido para Roupas Delicadas 1L;19;16.15;limpeza domiciliar;29/05/2024
+043;Melão Amarelo (un);31;10.32;vegetais;20/03/2024
+044;Fraldinha Bovina (kg);47;54.87;açougue;24/03/2025
+045;Costela Bovina (kg);10;23.7;açougue;11/02/2025
+046;Amido de Milho Caixa 200g;168;7.29;alimentos industrializados;26/10/2024
+047;Uva Itália (bandeja 500g);52;2.79;vegetais;29/12/2024
+048;Tomate Italiano (kg);29;27.43;vegetais;07/05/2025
+049;Cogumelo Paris (bandeja 200g);56;3.25;vegetais;09/02/2025
+050;Coco Verde (un);93;15.34;vegetais;09/05/2025
+051;Desodorante Roll-on Feminino Suave 50ml;260;19.35;higiene pessoal;04/04/2024
+052;Creme Dental Colgate Total 12 90g;41;40.14;higiene pessoal;16/12/2024
+053;Cará (kg);16;5.76;vegetais;08/01/2024
+054;Alcatra Bovina (kg);23;103.62;açougue;30/05/2024
+055;Detergente Líquido Neutro 500ml;248;18.65;limpeza domiciliar;02/02/2024
+056;Coco Seco (un);157;19.42;vegetais;21/10/2024
+057;Limpador Multiuso Veja Gold Original 500ml;111;27.03;limpeza domiciliar;01/08/2024
+058;Repelente de Insetos Spray 100ml;128;40.19;higiene pessoal;26/08/2024
+059;Removedor Multiuso 500ml;205;33.96;limpeza domiciliar;21/12/2024
+060;Atum Ralado em Óleo Lata 170g;85;37.84;alimentos industrializados;07/08/2024
+061;Batata Inglesa (kg);16;7.04;vegetais;11/02/2024
+062;Milho Verde em Conserva Lata 200g;52;49.01;alimentos industrializados;11/05/2025
+063;Lentilha Yoki 500g;678;24.68;alimentos industrializados;19/05/2024
+064;Feijão Preto Combrasil 1kg;409;22.72;alimentos industrializados;09/03/2024
+065;Creme Dental Proteção Anticáries 90g;153;37.19;higiene pessoal;29/08/2024
+066;Pernil Suíno (kg);51;62.94;açougue;09/02/2024
+067;Melancia (kg);50;9.71;vegetais;29/04/2025
+068;Fralda Descartável Infantil M 40un;132;23.43;higiene pessoal;10/05/2025
+069;Leite em Pó Integral Lata 400g;466;21.29;alimentos industrializados;06/05/2025
+070;Presunto Cozido Fatiado (kg);61;63.2;açougue;14/01/2025
+071;Coxa e Sobrecoxa de Frango Sem Dorso (kg);62;51.73;açougue;09/10/2024
+072;Escova de Dentes Média Adulto;143;29.43;higiene pessoal;13/05/2024
+073;Pano de Chão Alvejado (un);90;32.69;limpeza domiciliar;02/04/2024
+074;Cortador de Unhas (un);308;13.12;higiene pessoal;25/04/2025
+075;Inseticida Aerossol Multiuso 300ml;104;21.19;limpeza domiciliar;02/06/2024
+076;Creme de Leite UHT Caixa 200g;259;18.82;alimentos industrializados;16/02/2025
+077;Filé Mignon Suíno (Peça);26;62.85;açougue;27/06/2024
+078;Abacate (un);140;7.8;vegetais;12/11/2024
+079;Linguiça Fina Perdigão Defumada (kg);60;27.2;açougue;27/03/2024
+080;Saco de Lixo Forte 100L 10un;83;6.39;limpeza domiciliar;24/10/2024
+081;Filé de Peito de Frango Congelado Sadia 1kg;22;73.53;açougue;17/03/2025
+082;Tomate Cereja (bandeja 250g);174;18.84;vegetais;23/07/2024
+083;Mexerica / Tangerina Poncã (kg);95;17.64;vegetais;28/12/2024
+084;Ketchup Heinz Tradicional 397g;681;19.7;alimentos industrializados;15/11/2024
+085;Papel Higiênico Folha Dupla 4 Rolos;374;26.05;higiene pessoal;01/01/2024
+086;Biscoito Água e Sal Pacote 200g;653;18.39;alimentos industrializados;05/04/2024
+087;Desengordurante Cozinha Refil 500ml;88;14.99;limpeza domiciliar;04/04/2024
+088;Chuchu (kg);76;5.36;vegetais;02/10/2024
+089;Leite UHT Integral 1L;93;36.61;alimentos industrializados;24/05/2025
+090;Milho Verde Quero Lata 200g;551;50.29;alimentos industrializados;12/09/2024
+091;Creme Dental Branqueador 70g;252;15.5;higiene pessoal;11/09/2024
+092;Extrato de Tomate Lata 140g;144;33.35;alimentos industrializados;25/04/2024
+093;Beterraba (kg);183;10.65;vegetais;26/08/2024
+094;Naftalina Bolas (pacote 12un);271;26.26;limpeza domiciliar;05/03/2025
+095;Ervilha Fugini Sachê 200g;136;17.59;alimentos industrializados;05/06/2024
+096;Linguiça D'Minas Mista Defumada (kg);55;56.84;açougue;16/04/2024
+097;Carne Moída Patinho (kg);42;76.08;açougue;29/09/2024
+098;Pimentão Verde (kg);72;14.52;vegetais;10/04/2025
+099;Costela Suína (kg);30;53.62;açougue;29/05/2025
+100;Cebola Branca (kg);90;4.43;vegetais;20/08/2024
+101;Linguiça Toscana Sadia (kg);26;29.41;açougue;25/02/2025
+102;Alho Nacional (kg);74;13.05;vegetais;18/12/2024
+103;Linguiça Suína Cozinha Premiada (kg);37;36.76;açougue;16/10/2024
+104;Desinfetante Pinho Sol Original 500ml;295;12.29;limpeza domiciliar;29/01/2024
+105;Escova de Dentes Infantil Personagem;102;10.15;higiene pessoal;18/04/2025
+106;Fio Dental Menta 50m;287;17.85;higiene pessoal;10/12/2024
+107;Protetor Solar FPS 50 120ml;370;30.53;higiene pessoal;31/01/2025
+108;Torrada Tradicional Pacote 160g;205;17.9;alimentos industrializados;02/03/2025
+109;Arroz Integral Camil 1kg;227;31.77;alimentos industrializados;12/12/2024
+110;Lombo Suíno (kg);31;24.23;açougue;22/02/2024
+111;Batata Inglesa Lavada (kg);165;5.36;vegetais;22/03/2025
+112;Nectarina (kg);123;9.41;vegetais;25/07/2024
+113;Shampoo para Cabelos Oleosos 350ml;309;3.09;higiene pessoal;26/11/2024
+114;Cenoura (kg);70;17.03;vegetais;11/03/2025
+115;Creme para Pentear Cachos 250ml;350;9.86;higiene pessoal;12/04/2024
+116;Feijão Carioca Kicaldo Tipo 1 1kg;349;9.39;alimentos industrializados;09/01/2025
+117;Gelatina em Pó Sabor Morango Caixa 25g;376;17.26;alimentos industrializados;04/11/2024
+118;Couve-flor (un);83;17.26;vegetais;29/05/2025
+119;Escova de Dentes Oral-B Indicator;73;29.52;higiene pessoal;03/10/2024
+120;Vinagre de Álcool Branco 750ml;204;16.01;limpeza domiciliar;13/05/2024
+121;Açúcar Demerara Native 1kg;470;40.12;alimentos industrializados;13/12/2024
+122;Balde Plástico 10L;34;32.19;limpeza domiciliar;16/06/2024
+123;Mamão Papaia (un);31;4.26;vegetais;28/07/2024
+124;Refrigerante Cola Garrafa PET 2L;117;13.79;alimentos industrializados;26/01/2024
+125;Milho Verde (espiga);120;8.91;vegetais;03/03/2024
+126;Fralda Pampers Confort Sec M 30un;353;15.86;higiene pessoal;11/05/2024
+127;Cebolinha (maço);51;10.52;vegetais;27/08/2024
+128;Café Torrado e Moído Pilão Tradicional 500g;147;52.32;alimentos industrializados;11/03/2025
+129;Acém Bovino (Peça ou Pedaço);57;10.63;açougue;02/05/2025
+130;Hidratante Corporal Peles Secas 200ml;121;18.88;higiene pessoal;26/05/2025
+131;Gelatina Royal Morango 25g;27;18.19;alimentos industrializados;10/12/2024
+132;Biscoito Polvilho Doce 100g;649;20.28;alimentos industrializados;17/05/2025
+133;Álcool Líquido 70% 1L;323;21.24;limpeza domiciliar;11/11/2024
+134;Laranja Pera (kg);167;14.82;vegetais;06/05/2025
+135;Pera Portuguesa (kg);107;10.8;vegetais;25/01/2024
+136;Luvas de Borracha Multiuso (par) M;234;22.28;limpeza domiciliar;24/10/2024
+137;Sabão em Barra Neutro Glicerinado;123;15.2;limpeza domiciliar;09/06/2024
+138;Repolho Verde (un);21;12.03;vegetais;23/05/2025
+139;Patinho Bovino em Bifes (kg);55;31.75;açougue;08/04/2025
+140;Aparelho de Barbear Gillette Mach3 (un);86;18.0;higiene pessoal;23/06/2024
+141;Fermento Químico em Pó Lata 100g;358;11.68;alimentos industrializados;26/09/2024
+142;Leite UHT Desnatado Piracanjuba 1L;186;19.47;alimentos industrializados;09/05/2025
+143;Arroz Parboilizado 1kg;522;26.17;alimentos industrializados;11/11/2024
+144;Cebola Roxa (kg);49;19.53;vegetais;25/12/2024
+145;Panos de Chão Alvejado (kit 3un);28;15.08;limpeza domiciliar;16/05/2024
+146;Bicarbonato de Sódio 100g;120;25.96;limpeza domiciliar;14/11/2024
+147;Desodorante em Creme Hipoalergênico 55g;65;44.77;higiene pessoal;29/11/2024
+148;Aparelho de Barbear Recarregável 3 Lâminas (un);116;35.9;higiene pessoal;02/03/2025
+149;Pé Suíno Fresco (kg);21;53.8;açougue;02/11/2024
+150;Couve Manteiga (maço);149;14.01;vegetais;20/01/2025
+151;Azeite Extra Virgem Gallo 500ml;164;45.16;alimentos industrializados;22/11/2024
+152;Leite UHT Integral Italac 1L;167;13.86;alimentos industrializados;09/03/2025
+153;Água Mineral sem Gás Garrafa 1.5L;41;15.94;alimentos industrializados;01/07/2024
+154;Nabo (kg);189;15.87;vegetais;15/05/2024
+155;Carga para Aparelho de Barbear 3 Lâminas (pct 2un);77;30.83;higiene pessoal;25/09/2024
+156;Linguiça Sadia ou Perdigão Calabresa (kg);69;74.14;açougue;25/07/2024
+157;Jiló (kg);174;15.93;vegetais;29/11/2024
+158;Maminha Bovina (kg);19;20.29;açougue;24/01/2025
+159;Escova de Dentes Macia Adulto;363;29.36;higiene pessoal;27/04/2024
+160;Azedinha (maço);26;7.86;vegetais;03/12/2024
+161;Maçã Fuji (kg);111;11.4;vegetais;03/04/2025
+162;Desinfetante Pinho Lavanda 1L;110;21.49;limpeza domiciliar;18/04/2024
+163;Acém Moído (kg);20;40.86;açougue;28/10/2024
+164;Água Mineral Crystal s/ Gás 1.5L;541;28.35;alimentos industrializados;12/08/2024
+165;Condicionador Seda Ceramidas 325ml;156;25.18;higiene pessoal;08/05/2025
+166;Saco de Lixo Reforçado 50L (rolo 20un);84;25.16;limpeza domiciliar;20/04/2025
+167;Seleta de Legumes em Conserva Lata 265g;441;11.79;alimentos industrializados;01/07/2024
+168;Sardinha em Óleo Comestível Lata 125g;590;21.17;alimentos industrializados;13/04/2025
+169;Maionese Tradicional Pote 500g;451;14.69;alimentos industrializados;10/02/2024
+170;Desinfetante Lysoform Bruto 1L;303;17.13;limpeza domiciliar;04/05/2024
+171;Maracujá Azedo (kg);59;12.94;vegetais;27/04/2025
+172;Vassoura Piaçava Uso Externo;327;21.15;limpeza domiciliar;28/10/2024
+173;Pedra Sanitária Adesiva Aparelho;251;25.89;limpeza domiciliar;28/03/2024
+174;Manga Palmer (kg);80;3.19;vegetais;15/05/2024
+175;Pepino Comum (kg);29;26.96;vegetais;10/12/2024
+176;Abóbora (kg);56;5.17;vegetais;27/04/2024
+177;Hastes Flexíveis Topz 150un;217;11.38;higiene pessoal;19/01/2025
+178;Batata Doce Rosa (kg);177;7.97;vegetais;02/11/2024
+179;Farinha de Trigo Dona Benta Tradicional 1kg;234;7.57;alimentos industrializados;13/03/2025
+180;Sal Refinado Iodado 1kg;140;9.3;alimentos industrializados;17/08/2024
+181;Arroz Branco Tio João Tipo 1 5kg;131;46.49;alimentos industrializados;15/11/2024
+182;Tomate Débora (kg);137;8.45;vegetais;24/03/2025
+183;Requeijão Cremoso Vigor Copo 200g;131;33.7;alimentos industrializados;15/03/2024
+184;Torrada Bauducco Tradicional 160g;83;9.68;alimentos industrializados;18/01/2025
+185;Vassoura Cerdas Macias Uso Interno;86;13.1;limpeza domiciliar;14/04/2025
+186;Fubá Mimoso Sinhá 500g;386;26.1;alimentos industrializados;26/11/2024
+187;Peito Bovino (kg);9;12.55;açougue;20/01/2024
+188;Absorvente Externo c/ Abas Suave 16un;129;29.67;higiene pessoal;26/10/2024
+189;Ervilha Torta (bandeja 300g);175;4.09;vegetais;26/12/2024
+190;Açúcar Refinado União 1kg;148;24.83;alimentos industrializados;26/10/2024
+191;Gengibre (kg);157;16.36;vegetais;04/11/2024
+192;Café Torrado e Moído Tradicional 500g;56;39.82;alimentos industrializados;27/11/2024
+193;Filé de Tilápia Aurora 400g;571;9.98;alimentos industrializados;05/03/2024
+194;Saco de Lixo Embalixo 30L 20un;72;14.11;limpeza domiciliar;13/03/2024
+195;Laranja Lima (kg);70;7.94;vegetais;27/09/2024
+196;Manga Tommy (kg);43;16.93;vegetais;25/03/2024
+197;Fubá Mimoso 500g;396;46.5;alimentos industrializados;20/06/2024
+198;Rodo Plástico 40cm;164;13.68;limpeza domiciliar;13/04/2024
+199;Aparelho de Barbear Descartável 2 Lâminas (pct 2un);15;20.75;higiene pessoal;02/12/2024
+200;Chã de Dentro (kg);36;22.58;açougue;04/09/2024
+201;Chicória (maço);107;14.29;vegetais;31/05/2024
+202;Limpador Tira-Limo Clorado Spray 500ml;12;5.58;limpeza domiciliar;16/12/2024
+203;Condicionador para Cabelos Tingidos 300ml;308;19.3;higiene pessoal;11/02/2024
+204;Carne Moída Acém (kg);54;52.77;açougue;01/01/2024
+205;Atum Sólido Gomes da Costa Óleo Lata 170g;260;41.97;alimentos industrializados;03/10/2024
+206;Asa de Frango (kg);31;59.05;açougue;02/12/2024
+207;Requeijão Cremoso Tradicional Copo 200g;588;24.0;alimentos industrializados;10/10/2024
+208;Shampoo para Cabelos Cacheados 400ml;374;40.17;higiene pessoal;20/07/2024
+209;Sardinha Coqueiro Óleo Lata 125g;630;24.65;alimentos industrializados;09/08/2024
+210;Shampoo Pantene Restauração 350ml;184;11.33;higiene pessoal;24/07/2024
+211;Coxa e Sobrecoxa de Frango com Dorso (kg);51;42.78;açougue;04/09/2024
+212;Algodão Hidrófilo Bola 50g;195;14.72;higiene pessoal;09/11/2024
+213;Picanha Bovina (kg);24;38.17;açougue;14/01/2024
+214;Limão Siciliano (kg);10;11.07;vegetais;04/11/2024
+215;Tempero Completo com Pimenta Pote 300g;359;18.14;alimentos industrializados;04/02/2025
+216;Açúcar Refinado 1kg;121;8.81;alimentos industrializados;22/10/2024
+217;Papel Higiênico Folha Simples 8 Rolos;141;19.72;higiene pessoal;04/10/2024
+218;Contrafilé Bovino (kg);34;52.93;açougue;15/04/2025
+219;Suco de Laranja Néctar Caixa 1L;613;27.62;alimentos industrializados;22/02/2024
+220;Creme de Leite Nestlé Lata 300g;698;33.38;alimentos industrializados;07/01/2025
+221;Absorvente Intimus Gel c/ Abas Suave 8un;370;28.34;higiene pessoal;25/12/2024
+222;Água Sanitária Tradicional 2L;54;33.14;limpeza domiciliar;14/02/2024
+223;Alvejante sem Cloro Roupas Coloridas 1L;180;7.72;limpeza domiciliar;06/03/2025
+224;Condicionador Hidratante 350ml;276;27.64;higiene pessoal;12/04/2025
+225;Alface Lisa (un);61;23.17;vegetais;23/02/2024
+226;Banana Nanica (kg);100;6.73;vegetais;06/04/2024
+227;Lustra Móveis Óleo de Peroba 200ml;61;11.94;limpeza domiciliar;16/02/2025
+228;Lenços Umedecidos Huggies 48un;59;12.72;higiene pessoal;07/02/2024
+229;Pimentão Vermelho (kg);109;3.74;vegetais;07/03/2024
+230;Margarina Qualy c/ Sal 500g;464;39.02;alimentos industrializados;21/08/2024
+231;Almeirão (maço);58;12.14;vegetais;16/06/2024
+232;Desinfetante para Vaso Sanitário Pastilha Adesiva;194;16.2;limpeza domiciliar;03/10/2024
+233;Lustra Móveis Poliflor Lavanda 200ml;249;26.8;limpeza domiciliar;18/06/2024
+234;Cappuccino Pronto 3 Corações Classic 260ml;57;34.5;alimentos industrializados;03/05/2025
+235;Sabonete Barra Lux 85g;39;8.46;higiene pessoal;09/01/2024
+236;Limpador para Piso de Madeira Perfumado 750ml;105;35.07;limpeza domiciliar;09/08/2024
+237;Sabão Líquido Ariel Concentrado 1L;290;33.55;limpeza domiciliar;08/04/2024
+238;Limpa Vidros Spray 500ml;40;15.43;limpeza domiciliar;12/08/2024
+239;Espinafre (maço);16;12.32;vegetais;26/10/2024
+240;Desodorante Aerosol Antitranspirante Masculino 150ml;155;9.16;higiene pessoal;06/11/2024
+241;Inhame (kg);37;17.63;vegetais;25/09/2024
+242;Macarrão Parafuso Adria c/ Ovos 500g;207;18.49;alimentos industrializados;17/01/2025
+243;Sabão de Coco em Barra;250;16.66;limpeza domiciliar;22/06/2024
+244;Macarrão Espaguete Barilla nº5 500g;137;2.11;alimentos industrializados;06/04/2024
+245;Água Sanitária Candura 2L;307;23.7;limpeza domiciliar;13/07/2024
+246;Sabonete Líquido Dove 250ml;63;15.7;higiene pessoal;21/12/2024
+247;Ameixa Nacional (kg);33;3.49;vegetais;11/12/2024
+248;Biscoito Cream Cracker Tostines 200g;389;20.15;alimentos industrializados;29/04/2024
+249;Salsão / Aipo (maço);103;20.34;vegetais;31/03/2025
+250;Cotonetes Johnson's 75un;25;20.94;higiene pessoal;19/04/2025
+251;Coração de Frango (kg);23;45.53;açougue;07/03/2024
+252;Frango Inteiro Congelado (un);59;23.53;açougue;11/03/2024
+253;Maionese Hellmann's Tradicional 500g;641;10.73;alimentos industrializados;02/02/2025
+254;Sabonete em Barra Hidratante;127;6.01;higiene pessoal;10/09/2024
+255;Atum Sólido em Óleo Lata 170g;392;47.8;alimentos industrializados;13/05/2024
+256;Shampoo Anticaspa 200ml;335;40.01;higiene pessoal;24/01/2024
+257;Óleo de Soja 900ml;181;30.82;alimentos industrializados;26/02/2025
+258;Amaciante Comfort Concentrado 500ml;322;24.52;limpeza domiciliar;15/04/2024
+259;Amaciante Ypê Aconchego 2L;130;16.04;limpeza domiciliar;06/11/2024
+260;Agrião (maço);128;13.29;vegetais;19/08/2024
+261;Esponja Multiuso Scotch-Brite (un);245;11.2;limpeza domiciliar;10/09/2024
+262;Banana Maçã (kg);160;7.09;vegetais;16/10/2024
+263;Leite Fermentado Frasco 80g (kit 6un);510;11.24;alimentos industrializados;06/08/2024
+264;Óleo de Soja Liza 900ml;37;41.0;alimentos industrializados;02/02/2024
+265;Adoçante Líquido Sacarina Frasco 100ml;633;6.77;alimentos industrializados;27/03/2025
+266;Cera Líquida Incolor para Piso 750ml;171;24.26;limpeza domiciliar;14/10/2024
+267;Pêssego (kg);83;8.86;vegetais;06/01/2025
+268;Desodorante Roll-on Nivea Protect & Care;101;25.97;higiene pessoal;19/05/2025
+269;Vagem (kg);112;15.62;vegetais;09/06/2024
+270;Uva Thompson Sem Semente (bandeja 500g);106;10.91;vegetais;10/01/2024
+271;Limpador Multiuso Desengordurante Cozinha Spray 500ml;67;6.31;limpeza domiciliar;28/11/2024
+272;Cereal Matinal Flocos de Milho Açucarado Caixa 300g;359;19.68;alimentos industrializados;10/05/2025
+273;Macarrão Instantâneo Galinha Caipira 85g;543;6.34;alimentos industrializados;16/11/2024
+274;Amaciante de Roupas Concentrado Azul 500ml;321;17.67;limpeza domiciliar;12/12/2024
+275;Alface Crespa (un);73;11.2;vegetais;12/12/2024
+276;Protetor Diário sem Abas 40un;370;12.96;higiene pessoal;10/12/2024
+277;Pão de Forma Pullman Tradicional 500g;538;24.82;alimentos industrializados;13/07/2024
+278;Margarina com Sal Pote 500g;539;52.21;alimentos industrializados;01/03/2024
+279;Absorvente Interno Médio 10un;377;25.66;higiene pessoal;22/03/2024
+280;Limpador Perfumado UAU Lavanda 500ml;110;25.28;limpeza domiciliar;10/11/2024
+281;Berinjela (kg);61;17.11;vegetais;12/03/2025
+282;Mostarda (maço);43;6.66;vegetais;22/05/2024
+283;Alho (kg);89;13.76;vegetais;28/05/2024
+284;Amaciante de Roupas Tradicional 2L;327;18.31;limpeza domiciliar;17/03/2024
+285;Farinha de Trigo Tipo 1 1kg;183;7.71;alimentos industrializados;20/05/2024
+286;Palmito Pupunha em Conserva Vidro 300g;517;18.2;alimentos industrializados;04/05/2025
+287;Sabonete Líquido Antibacteriano;119;11.8;higiene pessoal;20/05/2024
+288;Arroz Integral 1kg;214;35.97;alimentos industrializados;29/03/2025
+289;Esponja de Aço (pacote 8un);10;9.62;limpeza domiciliar;25/02/2025
+290;Cotonetes Hastes Flexíveis 150un;40;42.75;higiene pessoal;19/03/2024
+291;Alho Poró (un);172;4.67;vegetais;12/05/2025
+292;Esponja Multiuso (kit 3un);258;14.3;limpeza domiciliar;31/05/2024
+293;Arroz Branco Tipo 1 5kg;189;32.83;alimentos industrializados;06/01/2025
+294;Erva-doce / Funcho (un);105;19.73;vegetais;22/01/2025
+295;Água Sanitária Qboa 1L;150;8.2;limpeza domiciliar;30/05/2024
+296;Feijão Preto 1kg;280;30.16;alimentos industrializados;08/04/2025
+297;Azeitona Verde com Caroço Vidro 200g;416;28.69;alimentos industrializados;07/03/2025
+298;Sopa Instantânea Legumes Pacote 68g;346;25.91;alimentos industrializados;27/12/2024
+299;Extrato de Tomate Elefante Lata 140g;167;25.26;alimentos industrializados;20/02/2024
+300;Salgadinho Cheetos Requeijão 55g;346;21.35;alimentos industrializados;04/07/2024
